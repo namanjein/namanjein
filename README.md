@@ -28,4 +28,4 @@ I am an 11th-grade student exploring the boundaries of computational physics, em
 * 📝 **Research Journal:** [Read my Physics & Philosophy deep-dives on Substack](#)
 * 🌌 **Community Node:** Founder at *The Catalyst Collective* (An independent home for unfinished work)
 
-*"An unexamined script is not worth executing."*
+*"Sometimes you gotta run before you can walk."*
