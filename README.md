@@ -24,8 +24,8 @@ I am an 11th-grade student exploring the boundaries of computational physics, em
 ---
 
 ### 🏛️ Ecosystem Extensions
-* 💼 **Professional Network:** [Connect with me on LinkedIn](https://www.linkedin.com/in/namanjain2009/)
-* 📝 **Research Journal:** [Read my Physics & Philosophy deep-dives on Substack](#)
+* 💼 **Professional Network:** [Connect with me on LinkedIn](https://www.linkedin.com/in/namanjein/)
+* 📝 **Research Journal:** [Read my Physics & Philosophy deep-dives on Substack](https://namanjein.substack.com/) [Watch my Video Essays on Youtube](www.youtube.com/@namanjein)
 * 🌌 **Community Node:** Founder at *The Catalyst Collective* (An independent home for unfinished work)
 
 *"Sometimes you gotta run before you can walk."*
